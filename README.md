@@ -21,7 +21,7 @@ A RESTful API for an e-commerce platform built with Django, Django REST Framewor
 
 ## Live API Documentation
 
-Explore the interactive Swagger docs:
+Download de Swagger doc.json:
 
 [https://commerce-backend-cm1y.onrender.com/docs/swagger.json](https://commerce-backend-cm1y.onrender.com/docs/swagger.json)
 
