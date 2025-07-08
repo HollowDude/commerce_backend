@@ -31,3 +31,4 @@ tzdata==2025.2
 uritemplate==4.2.0
 urllib3==2.5.0
 xcu==1.0.2
+gunicorn==23.0.0
